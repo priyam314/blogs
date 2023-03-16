@@ -1,0 +1,24 @@
+baseURL = 'https://eulogs.com/'
+languageCode = 'en-us'
+title = 'Eulogs'
+theme = ["hugo-theme-monochrome", "hugo-cite"]
+
+[markup.goldmark.renderer]
+    unsafe = true
+
+
+[params]
+author = "Priyam Garg"
+navbar_title = "Eulogs"
+footer = "Copyright © 2022 by Priyam Garg"
+enable_collapsible_toc = true 
+enable_collapsible_changelogs = true 
+enable_site_search = true
+
+[markup]
+    [markup.highlight]
+        style = 'gruvbox'
+        #codeFences = true
+        noClasses = true
+        lineNos = true
+

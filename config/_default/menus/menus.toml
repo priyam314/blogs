@@ -1,0 +1,18 @@
+[[navbar]]
+    identifier = "Areas"
+    name = "Areas"
+    url = "/Areas/"
+    weight = 1
+    # [[navbar]]
+    #     identifier = "ConsciousAI"
+    #     name = "ConsciousAI"
+    #     url = "/posts/ConsciousAI/"
+    #     parent = "posts"
+    #     weight = 1
+    # [[navbar]]
+    #     identifier = "DomainGeneralization"
+    #     name = "DomainGeneralization"
+    #     url = "/posts/DomainGeneralization/"
+    #     parent = "posts"
+    #     weight = 1
+        

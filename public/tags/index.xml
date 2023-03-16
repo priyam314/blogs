@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Eulogs</title>
-    <link>https://www.eulogs.com/tags/</link>
+    <link>http://www.eulogs.com/tags/</link>
     <description>Recent content in Tags on Eulogs</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://www.eulogs.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://www.eulogs.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

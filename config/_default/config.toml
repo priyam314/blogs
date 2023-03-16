@@ -1,4 +1,4 @@
-baseURL = 'https://eulogs.com/'
+baseURL = 'https://www.eulogs.com/'
 languageCode = 'en-us'
 title = 'Eulogs'
 theme = ["hugo-theme-monochrome", "hugo-cite"]
